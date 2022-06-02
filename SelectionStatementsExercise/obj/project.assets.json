@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\David\\Downloads\\Repos\\CSharp27\\SelectionStatementsExercise\\SelectionStatementsExercise\\SelectionStatementsExercise.csproj",
+      "projectUniqueName": "C:\\Users\\David\\Repos\\CSharp27\\SelectionStatementsExercise\\SelectionStatementsExercise\\SelectionStatementsExercise.csproj",
       "projectName": "SelectionStatementsExercise",
-      "projectPath": "C:\\Users\\David\\Downloads\\Repos\\CSharp27\\SelectionStatementsExercise\\SelectionStatementsExercise\\SelectionStatementsExercise.csproj",
+      "projectPath": "C:\\Users\\David\\Repos\\CSharp27\\SelectionStatementsExercise\\SelectionStatementsExercise\\SelectionStatementsExercise.csproj",
       "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\David\\Downloads\\Repos\\CSharp27\\SelectionStatementsExercise\\SelectionStatementsExercise\\obj\\",
+      "outputPath": "C:\\Users\\David\\Repos\\CSharp27\\SelectionStatementsExercise\\SelectionStatementsExercise\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
